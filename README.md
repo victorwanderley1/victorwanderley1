@@ -6,9 +6,9 @@
 
 #### A little about me :bowtie:
 I'm a junior java developer looking to acquire more and more knowledge. 🤓 I study systems analysis and development at Potiguar university.
-<p>I like new challenges and I try to be one percent better every day. 💪
-<p>I'm a music and technology enthusiast. :notes:
-<p>I'm available to learn and to help with open source projects.
+<br>I like new challenges and I try to be one percent better every day. 💪
+<br>I'm a music and technology enthusiast. :notes:
+<br>I'm available to learn and to help with open source projects.
 
  
 
