@@ -10,6 +10,15 @@ I'm a junior java developer looking to acquire more and more knowledge. 🤓 I s
 <br>I'm a music and technology enthusiast. :notes:
 <br>I'm available to learn and to help with open source projects.
 
+## Hobbies
+
+  <img alt="Sports" src="https://img.shields.io/badge/SPORTS-SPRINT-FF4500?style=flat-square" />
+    <img alt="Books" src="https://img.shields.io/badge/BOOKS-TECH%2C%20CRIMINAL%20AND%20PERSONAL%20IMPROVEMENT-FF4500?style=flat-square" />
+      <img alt="Food" src="https://img.shields.io/badge/FOOD-ITALIAN-FF4500?style=flat-square" />
+        <img alt="Games" src="https://img.shields.io/badge/GAMES-FLIGHT%20SIMULATION,%20AGE%20OF%20EMPIRES%20III,%20THE%20SIMS-FF4500?style=flat-square" />
+                <img alt="MUSIC" src="https://img.shields.io/badge/MUSIC-PIANO%20GUITAR%20-FF4500?style=flat-square" />
+                
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorwanderley1&show_icons=true&theme=gruvbox&bg_color#000000)
  
 
 <!--
