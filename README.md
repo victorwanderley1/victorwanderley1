@@ -1,14 +1,16 @@
 ## Hi, Welcome! 👋
-### I'm Victor!
+### I'm Victor Wanderley!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victorwanderley1)](https://github.com/victorwanderley1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorwanderley1/)](https://www.linkedin.com/in/victorwanderley1/)
 
 #### A little about me :bowtie:
-I'm a junior java developer looking to acquire more and more knowledge. 🤓 I study systems analysis and development at Potiguar university.
+I'm a Backend Java developer. I'm always looking to learn new knowledge and overcome obstacles. 🤓
+I've been working with Java since 2020 and I'm currently allocated to the "Secretaria da Fazenda de Pernambuco" project.
+<br>I'm available to help with open source projects.
 <br>I like new challenges and I try to be one percent better every day. 💪
 <br>I'm a music and technology enthusiast. :notes:
-<br>I'm available to learn and to help with open source projects.
+
 
 ## Hobbies
 
