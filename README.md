@@ -1,15 +1,11 @@
-## Hi, Welcome! 👋
-### I'm Victor Wanderley!
+## Olá, Bem-vindo! 👋
+### Eu sou Victor Wanderley!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victorwanderley1)](https://github.com/victorwanderley1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorwanderley1/)](https://www.linkedin.com/in/victorwanderley1/)
 
-#### A little about me :bowtie:
-I'm a Backend Java developer. I'm always looking to learn new knowledge and overcome obstacles. 🤓
-I've been working with Java since 2020 and I'm currently allocated to the "Secretaria da Fazenda de Pernambuco" project.
-<br>I'm available to help with open source projects.
-<br>I like new challenges and I try to be one percent better every day. 💪
-<br>I'm a music and technology enthusiast. :notes:
+#### Sobre mim :bowtie:
+Sou um desenvolvedor apaixonado, com uma jornada que começou em 2020. Tive a oportunidade de contribuir para projetos significativos, desde a evolução de sistemas fiscais (e-Fisco) até sistemas de administração eficiente de instituições públicas de ensino de nível superior (SIGAA/SIPAC).
 
 
 ## Hobbies
