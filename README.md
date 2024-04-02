@@ -1,4 +1,4 @@
-## Olá, Bem-vindo! 👋
+## Olá, Bem-vindo!
 ### Eu sou Victor Wanderley! E é um prazer te conhecer.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victorwanderley1)](https://github.com/victorwanderley1)
